@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "identityCard":"身份证",
+      "userName":"张三",
+      "identityCardDate":"2017.8.10",
+      "wokingCertificate":"工作证明",
+      "wokingDate":"2017.8.10",
+      "marriageCertificate":"结婚证",
+      "marriageDate":"2017.8.10"
+    }
+  ]
+}
